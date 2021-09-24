@@ -1,0 +1,10 @@
+1. go inside dictionary folder
+2. rum npm init
+3. npm install --save mysql express
+4. node Dictionary.js
+5. go inside frontend
+6. open dict.html and run it in browser
+
+
+Author Samuel Mideksa Degife
+Id no 612727
